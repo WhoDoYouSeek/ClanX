@@ -1,2 +1,0 @@
-// testforXSS.js
-alert('Vulnerable! ;)');
